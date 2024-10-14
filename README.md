@@ -5,3 +5,4 @@
 3. [MVC](https://github.com/kodsurfer/rails-basics/blob/main/MVC.md)
 4. [Object-Oriented-Design in Ruby](https://github.com/kodsurfer/rails-basics/blob/main/Object-Oriented-Design%20in%20Ruby.md)
 5. [SQL](https://github.com/kodsurfer/rails-basics/blob/main/SQL.md)
+6. [Active Record basics](https://github.com/kodsurfer/rails-basics/blob/main/Active%20Record%20Basics.md)
